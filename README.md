@@ -41,7 +41,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ## Authors
 
-* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Item Catalog](https://github.com/thepembeweb/aws-static-website-deployment)
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Deploy Static Website on AWS](https://github.com/thepembeweb/aws-static-website-deployment)
 
 ## License
 
