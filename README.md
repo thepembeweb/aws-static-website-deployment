@@ -2,7 +2,7 @@
 
 > This project demonstrates how to deploy a static website to AWS.
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
