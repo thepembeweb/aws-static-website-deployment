@@ -1,4 +1,4 @@
-﻿﻿# Deploy Static Website on AWS
+﻿# Deploy Static Website on AWS
 
 > This project demonstrates how to deploy a static website to AWS.
 
